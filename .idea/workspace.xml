@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="272558e2-ca18-4b65-9667-d004d62ce2ba" name="Default Changelist" comment="" />
+    <list default="true" id="272558e2-ca18-4b65-9667-d004d62ce2ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/contato.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/produtos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/sobre.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/styles.css.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/mastertech/hometeachear/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/mastertech/hometeachear/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/mastertech/hometeachear/AppController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/mastertech/hometeachear/AppController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/mastertech/hometeachear/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/mastertech/hometeachear/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/mastertech/hometeachear/AppController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/mastertech/hometeachear/AppController.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,17 +24,26 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WiNGLVahwXeNWhKQ2JbSX2IVgL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -56,26 +78,33 @@
     </task>
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1233" height="168" key="GridCell.Tab.0.bottom" timestamp="1579634678295">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1579725013965">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1233" height="168" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579634678295" />
-    <state width="1233" height="168" key="GridCell.Tab.0.center" timestamp="1579634678295">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579725013965" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1579725013963">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1233" height="168" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579634678295" />
-    <state width="1233" height="168" key="GridCell.Tab.0.left" timestamp="1579634678294">
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579725013963" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1579725013962">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1233" height="168" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579634678294" />
-    <state width="1233" height="168" key="GridCell.Tab.0.right" timestamp="1579634678295">
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579725013962" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1579725013964">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1233" height="168" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579634678295" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579725013964" />
     <state x="382" y="215" key="com.intellij.ide.util.TipDialog" timestamp="1579695189602">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="382" y="215" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1579695189602" />
+    <state x="67" y="86" width="1289" height="603" key="new project wizard" timestamp="1579696890968">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="86" width="1289" height="603" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1579696890968" />
   </component>
 </project>
